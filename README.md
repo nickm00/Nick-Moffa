@@ -16,4 +16,4 @@ Project 3
 
 http://eve.kean.edu/~moffan/TECH3500/Project3/home4.html
 
-This Project is based on helping people is different ways.
+This Project is based on helping people in different ways.
